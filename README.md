@@ -6,7 +6,7 @@
 ---
 ## Project(~2023.Nov)
 
-### [📷CIFAR-10-Dataset-Classification](https://github.com/yelangsung/CIFAR-10-Dataset-Classification.git)
+### [🖼️CIFAR-10-Dataset-Classification](https://github.com/yelangsung/CIFAR-10-Dataset-Classification.git)
 - 🕛Project Duration : 2023.06~2023.07
 - 🖥️Project Description : Constructing a high-accuracy deep learning model for classifying CIFAR-10 dataset
 
