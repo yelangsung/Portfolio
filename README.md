@@ -22,7 +22,7 @@
 - 🕛Project Duration : 2022.11~2022.12
 - 🖥️Project Description : An application built based on the C language, allows users to register restaurants, upload star ratings and reviews, and browse existing reviews.
 
-### [PID control of Drone in Morphological Adaptation Robot](https://github.com/yelangsung/Drone-s-PID.git)
+### [🤖 PID control of Drone in Morphological Adaptation Robot](https://github.com/yelangsung/Drone-s-PID.git)
 - 🕛Project Duration : 2023.09~2023.12
 - 🖥️Project Description : Developing the drone’s PID control system by incorporating ultrasonic, pressure, and IMU sensors.
   
